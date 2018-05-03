@@ -1,0 +1,25 @@
+{
+  "name": "lzad-15-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marro2016/lzad-15-7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marro2016/lzad-15-7/issues"
+  },
+  "homepage": "https://github.com/marro2016/lzad-15-7#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "browser-sync": "^2.24.3"
+  }
+}
